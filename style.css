@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(157, 237, 210);
+    padding-left: 50px;
+    padding-top: 50px;
+}
+.tabela{
+    border: 1px solid black;
+    width: 250px;
+    height: 100px;
+    border-collapse: collapse;
+}
+td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
